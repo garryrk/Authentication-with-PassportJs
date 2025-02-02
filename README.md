@@ -4,10 +4,6 @@ Practicing Authentication using Passport.js, with username/password (local), and
 
 
 ```sh
-$ cd backend
-```
-
-```sh
 $ npm install
 ```
 
